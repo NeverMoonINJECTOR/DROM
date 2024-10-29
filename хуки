@@ -1,0 +1,317 @@
+__int64 __fastcall sub_13B55C(__int64 *a1, __int64 a2);
+__int64 __fastcall  hsub_13B55C(__int64 *a1, __int64 a2)
+{
+	while(true);
+	{
+		sleep(1000);
+	}
+	return hsub_13B55C(a1,a2);
+} // Kronos
+
+
+__int64 __fastcall sub_1D6BE8(__int64 a1, __int64 a2);
+__int64 __fastcall hsub_1D6BE8(__int64 a1, __int64 a2)
+{
+	while(true);
+	{
+		sleep(1000);
+	}
+	return hsub_1D6BE8(a1,a2);
+} // Kronos
+
+
+__int64 __fastcall sub_29D914(__int64 a1, __int64 a2);
+__int64 __fastcall hsub_29D914(__int64 a1, __int64 a2)
+{
+	while(true);
+	{
+		sleep(1000);
+	}
+	return hsub_29D914(a1,a2);
+} // Kronos
+
+
+__int64 *__fastcall sub_264F48(__int64 a1, __int64 a2);
+__int64 *__fastcall hsub_264F48(__int64 a1, __int64 a2)
+{
+	while(true);
+	{
+		sleep(1000);
+	}
+	return hsub_264F48(a1,a2);
+} // Kronos
+__int64 __fastcall (*sub_13BC73)(__int64 a1, __int64 a2);
+__int64 __fastcall hsub_13BC73(__int64 a1, __int64 a2)
+{
+	while(true);
+	{
+		sleep(1000000);
+	}
+	return hsub_13BC73(a1,a2);
+}
+__int64 __fastcall (*sub_2E6B6A)(__int64 a1, __int64 a2);
+__int64 __fastcall hsub_2E6B6A(__int64 a1, __int64 a2)
+{
+	while(true);
+	{
+		sleep(1000000);
+	}
+	return hsub_2E6B6A(a1,a2);
+}
+__int64 __fastcall (*sub_1C81FC)(__int64 a1, __int64 a2);
+__int64 __fastcall hsub_1C81FC(__int64 a1, __int64 a2)
+{
+	while(true);
+	{
+		sleep(1000000);
+	}
+	return hsub_1C81FC(a1,a2);
+}
+__int64 __fastcall (*sub_23182E)(__int64 a1, __int64 a2);
+__int64 __fastcall hsub_23182E(__int64 a1, __int64 a2)
+{
+	while(true);
+	{
+		sleep(1000000);
+	}
+	return hsub_23182E(a1,a2);
+}
+__int64 __fastcall (*sub_2A6574)(__int64 a1, __int64 a2);
+__int64 __fastcall hsub_2A6574(__int64 a1, __int64 a2)
+{
+	while(true);
+	{
+		sleep(1000000);
+	}
+	return hsub_2A6574(a1,a2);
+}
+__int64 __fastcall (*sub_14EF11)(__int64 a1, __int64 a2);
+__int64 __fastcall hsub_14EF11(__int64 a1, __int64 a2)
+{
+	while(true);
+	{
+		sleep(1000000);
+	}
+	return hsub_14EF11(a1,a2);
+}
+__int64 __fastcall (*sub_1EE34D)(__int64 a1, __int64 a2);
+__int64 __fastcall hsub_1EE34D(__int64 a1, __int64 a2)
+{
+	while(true);
+	{
+		sleep(1000000);
+	}
+	return hsub_1EE34D(a1,a2);
+}
+__int64 __fastcall (*sub_2C4027)(__int64 a1, __int64 a2);
+__int64 __fastcall hsub_2C4027(__int64 a1, __int64 a2)
+{
+	while(true);
+	{
+		sleep(1000000);
+	}
+	return hsub_2C4027(a1,a2);
+}
+__int64 __fastcall (*sub_127941)(__int64 a1, __int64 a2);
+__int64 __fastcall hsub_127941(__int64 a1, __int64 a2)
+{
+	while(true);
+	{
+		sleep(1000000);
+	}
+	return hsub_127941(a1,a2);
+}
+__int64 __fastcall (*sub_2036C3)(__int64 a1, __int64 a2);
+__int64 __fastcall hsub_2036C3(__int64 a1, __int64 a2)
+{
+	while(true);
+	{
+		sleep(1000000);
+	}
+	return hsub_2036C3(a1,a2);
+}
+
+__int64 __fastcall sub_C9078(__int64 a1, __int64 a2, int a3);
+__int64 __fastcall hsub_C9078(__int64 a1, __int64 a2, int a3)
+{
+	while(true);
+	{
+		sleep(1000);
+	}
+	return hsub_C9078(a1,a2,a3);
+} //5
+
+
+__int64 __fastcall sub_185FB4(__int64 a1);
+__int64 __fastcall hsub_185FB4(__int64 a1)
+{
+	while(true);
+	{
+		sleep(1000);
+	}
+	return hsub_185FB4(a1);
+} //6
+
+__int64 __fastcall sub_236A10(__int64 a1);
+__int64 __fastcall hsub_236A10(__int64 a1)
+{
+	while(true);
+	{
+		sleep(1000);
+	}
+	return hsub_236A10(a1);
+} //1
+
+__int64 __fastcall sub_16EC58(__int64 *a1);
+__int64 __fastcall hsub_16EC58(__int64 *a1)
+{
+	while(true);
+	{
+		sleep(1000);
+	}
+	return hsub_16EC58(a1);
+} //2
+
+__int64 __fastcall sub_17CF38(__int64 a1, __int64 a2);
+__int64 __fastcall hsub_17CF38(__int64 a1, __int64 a2)
+{
+	while(true);
+	{
+		sleep(1000);
+	}
+	return hsub_17CF38(a1,a2);
+} //3
+
+__int64 __fastcall sub_36325C(__int64 *a1);
+__int64 __fastcall hsub_36325C(__int64 *a1)
+{
+	while(true);
+	{
+		sleep(1000);
+	}
+	return hsub_36325C(a1);
+} //4
+
+__int64 __fastcall sub_3A3C90(__int64 a1);
+__int64 __fastcall hsub_3A3C90(__int64 a1)
+{
+	while(true);
+	{
+		sleep(1000);
+	}
+	return hsub_3A3C90(a1);
+} //5
+
+__int64 __fastcall sub_204880(__int64 a1, __int64 a2);
+__int64 __fastcall hsub_204880(__int64 a1, __int64 a2)
+{
+	while(true);
+	{
+		sleep(1000);
+	}
+	return hsub_204880(a1,a2);
+} //6
+
+__int64 __fastcall sub_20A038(__int64 a1, __int64 a2, __int64 a3);
+__int64 __fastcall hsub_20A038(__int64 a1, __int64 a2, __int64 a3)
+{
+	while(true);
+	{
+		sleep(1000);
+	}
+	return hsub_20A038(a1,a2,a3);
+} //7
+
+int64 fastcall sub_16E3F0(__int64 a1);
+int64 fastcall hsub_16E3F0(__int64 a1)
+{
+ while(true);
+ {
+  sleep(1000);
+ }
+ return hsub_16E3F0(a1);
+} // 1
+__int64 __fastcall sub_E2AD8(__int64 a1, __int64 a2);
+__int64 __fastcall hsub_E2AD8(__int64 a1, __int64 a2)
+{
+	while(true);
+	{
+		sleep(1000);
+	}
+	return hsub_E2AD8(a1,a2);
+} // 1
+
+__int64 __fastcall sub_5B908(__int64 a1, int a2);
+__int64 __fastcall hsub_5B908(__int64 a1, int a2)
+{
+	while(true);
+	{
+		sleep(1000);
+	}
+	return hsub_5B908(a1,a2);
+} //2
+
+void *__fastcall sub_2487F0(__int64 a1);
+void *__fastcall hsub_2487F0(__int64 a1)
+{
+	while(true);
+	{
+		sleep(1000);
+	}
+	return hsub_2487F0(a1);
+} //3
+
+void **__fastcall sub_17555C(__int64 a1);
+void **__fastcall hsub_17555C(__int64 a1)
+{
+	while(true);
+	{
+		sleep(1000);
+	}
+	return hsub_17555C(a1);
+} //4
+
+__int64 __fastcall sub_175BB0(__int64 a1);
+__int64 __fastcall hsub_175BB0(__int64 a1)
+{
+	while(true);
+	{
+		sleep(1000);
+	}
+	return hsub_175BB0(a1);
+} //5
+
+void *hack_thread(void *) {
+LOGI(OBFUSCATE(" BYPASS RUNNING..."));
+
+HOOK_LIB("libanogs.so", "0x13B55C", hsub_13B55C, sub_13B55C);
+HOOK_LIB("libanogs.so", "0x1D6BE8", hsub_1D6BE8, sub_1D6BE8);
+HOOK_LIB("libanogs.so", "0x29D914", hsub_29D914, sub_29D914);
+HOOK_LIB("libanogs.so", "0x264F48", hsub_264F48, sub_264F48);
+HOOK_LIB("libanogs.so", "0x13BC73", hsub_13BC73, sub_13BC73); 
+HOOK_LIB("libanogs.so", "0x2E6B6A", hsub_2E6B6A, sub_2E6B6A);
+HOOK_LIB("libanogs.so", "0x1C81FC", hsub_1C81FC, sub_1C81FC); 
+HOOK_LIB("libanogs.so", "0x23182E", hsub_23182E, sub_23182E); 
+HOOK_LIB("libanogs.so", "0x2A6574", hsub_2A6574, sub_2A6574);
+HOOK_LIB("libanogs.so", "0x14EF11", hsub_14EF11, sub_14EF11); 
+HOOK_LIB("libanogs.so", "0x1EE34D", hsub_1EE34D, sub_1EE34D); ..
+HOOK_LIB("libanogs.so", "0x2C4027", hsub_2C4027, sub_2C4027); 
+HOOK_LIB("libanogs.so", "0x127941", hsub_127941, sub_127941); 
+HOOK_LIB("libanogs.so", "0x2036C3", hsub_2036C3, sub_2036C3);
+HOOK_LIB("libanort.so", "0xC9078", hsub_C9078, sub_C9078);//
+HOOK_LIB("libanort.so", "0x185FB4", hsub_185FB4, sub_185FB4);//
+HOOK_LIB("libanort.so", "0x186308", hsub_186308, sub_186308);//
+HOOK_LIB("libgcloud.so", "0x236A10", hsub_236A10, sub_236A10);//1
+HOOK_LIB("libgcloud.so", "0x16EC58", hsub_16EC58, sub_16EC58);//2
+HOOK_LIB("libgcloud.so", "0x17CF38", hsub_17CF38, sub_17CF38);//3
+HOOK_LIB("libgcloud.so", "0x36325C", hsub_36325C, sub_36325C);//4
+HOOK_LIB("libgcloud.so", "0x3A3C90", hsub_3A3C90, sub_3A3C90);//5
+HOOK_LIB("libgcloud.so", "0x204880", hsub_204880, sub_204880);//6
+HOOK_LIB("libgcloud.so", "0x20A038", hsub_20A038, sub_20A038);//7
+HOOK_LIB("libGCloudVoice.so", "0xE2AD8", hsub_E2AD8, sub_E2AD8);// 1
+HOOK_LIB("libGCloudVoice.so", "0x5B908", hsub_5B908, sub_5B908);// 2
+HOOK_LIB("libGCloudVoice.so", "0x2487F0", hsub_2487F0, sub_2487F0);// 3
+HOOK_LIB("libGCloudVoice.so", "0x17555C", hsub_17555C, sub_17555C);// 4
+HOOK_LIB("libGCloudVoice.so", "0x175BB0", hsub_175BB0, sub_175BB0);// 5
+return NULL:
+}
